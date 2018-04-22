@@ -1,1 +1,0 @@
-It is a academic project to study the stack of nodejs, reactjs and mongodb
